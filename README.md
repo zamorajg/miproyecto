@@ -1,2 +1,0 @@
-# miproyecto
-demo de Github
